@@ -1,0 +1,16 @@
+<!-- Footer -->
+<footer class="wrapper style1 align-center">
+    <div class="inner">
+        <ul class="icons">
+            {{ with .Site.Params.social.linkedin }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>{{end}}
+            {{ with .Site.Params.social.email }}<li><a target="_blank" href="mailto:{{.}}" class="fav icon style2 fa-envelope"><span class="label">Email</span></a></li>{{end}}
+        </ul>
+        <p><span class="footerspacer icon fa-diamond"> </span>MIL Mindcast &copy; 2024 <span class="footerspacer icon fa-diamond"></span>
+            Images courtesy of <a target="_blank" href="https://unsplash.com">Unsplash</a> <a target="_blank" href="https://www.pexels.com/">Pexels</a> <span class="footerspacer icon fa-diamond"></span> </p> 
+</div>
+</footer>
+
+<!-- FontAwesome JS -->
+{{ range .Site.Params.asset.fontawesome_js -}}
+    <script type="text/javascript" src="{{ . | absURL }}"></script>
+{{- end }}

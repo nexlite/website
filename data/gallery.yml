@@ -1,0 +1,101 @@
+podcast_gallery:
+  title: "Podcast Gallery"
+  style: "style2 medium lightbox onscroll-fade-in"
+  content: |
+    Explore our podcast gallery featuring insights from leaders in Artificial Intelligence, Technology, Psychology, Neuroscience, Sociology, and more, as we unravel the complexities of media literacy in the digital age.
+  pictures:
+    - title: "Dr. Sushil Chandra"
+      content: "Dean, School of Education, Rishihood University."
+      image: "images/gallery/fulls/pc1.jpg"
+      thumb: "images/gallery/thumbs/pc1t.jpg"
+      button: "View"
+
+    - title: "Anant Mittal"
+      content: "Director, Newton School of Technology, Rishihood University."
+      image: "images/gallery/fulls/pc2.jpg"
+      thumb: "images/gallery/thumbs/pc2t.jpg"
+      button: "View"
+
+    - title: "Prof. Ravinder Pal Singh"
+      content: "Co-Founder, School of Entreprenurship Rishihood University."
+      image: "images/gallery/fulls/pc3.jpg"
+      thumb: "images/gallery/thumbs/pc3t.jpg"
+      button: "View"
+    
+aosp_rom_features_gallery:
+  title: "NEXLITE OS Features Gallery"
+  style: "style2 medium lightbox onscroll-fade-in"
+  content: |
+    Explore the key features and enhancements of our AOSP-based ROM through our gallery.
+  pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/home1.jpg"
+    thumb: "images/gallery/thumbs/home1t.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/home2.jpg"
+    thumb: "images/gallery/thumbs/home2t.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/ms.jpg"
+    thumb: "images/gallery/thumbs/mst.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/pd1.jpg"
+    thumb: "images/gallery/thumbs/pd1t.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/pd2.jpg"
+    thumb: "images/gallery/thumbs/pd2t.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/bh.jpg"
+    thumb: "images/gallery/thumbs/bht.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/conf.jpg"
+    thumb: "images/gallery/thumbs/conft.jpg"
+    button: "Details"
+  
+community_interventions_gallery:
+  title: "Community Interventions"
+  style: "style2 medium lightbox onscroll-fade-in"
+  content: |
+    Discover how our community initiatives are making a difference.NEXLITE Impact Network focuses on creating awareness and resilience within communities to combat the behavioral impacts of misinformation, digital overload, and AI-driven media challenges. This ecosystem brings together behavioral scientists, educators, and youth leaders to initiate change.
+  pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/thumbs/vr1.jpg"
+    thumb: "images/gallery/thumbs/vr1.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/thumbs/vr2.jpg"
+    thumb: "images/gallery/thumbs/vr2.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/thumbs/vr3.jpg"
+    thumb: "images/gallery/thumbs/vr3.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/4.jpg"
+    thumb: "images/gallery/thumbs/vr4.jpg"
+    button: "Details"

@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Why does MIL matter ? Why podcasts ?"
+content: |
+  Our podcast series tackles the urgent need for media literacy in a world dominated by AI-driven content and misinformation. Media literacy is crucial for safeguarding our cognitive abilities, protecting against manipulation, and fostering informed, critical thinking. By engaging with experts, we empower listeners to navigate the media landscape with confidence and clarity.
+button: 
+  label: "Learn More"
+  link: "#why-podcasts"
+image: "images/spotlight01.jpg"

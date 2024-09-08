@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "NEXLITE"
+subtitle: |
+  Next-Gen Literacy and Information Education
+content : |
+  Our goal is to empower individuals and communities as Digital Guardians, enhancing knowledge, resilience, and digital literacy to combat misinformation, media addiction, and unethical AI-driven content. We aim to build a globally informed, MIL-literate society through podcasts, community interventions, and innovative digital solutions, including our OS, fostering healthy digital habits and ethical media use.
+button:
+  label : "Get Started"
+  link : "#first"
+image : "images/banner.jpg"
+

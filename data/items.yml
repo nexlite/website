@@ -1,0 +1,35 @@
+title : "Our Key Features"
+content: |
+  Explore the core elements that drive our mission to enhance media literacy, digital safety, and community impact through insightful podcasts, expert interviews, and innovative tech solutions.
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Podcast Episodes"
+    content : "Explore our latest episodes where we discuss media literacy, digital challenges, and expert insights."
+    style : "style2 major fa-podcast"
+
+  # feature item loop
+  - name : "Expert Interviews"
+    content : "Hear from thought leaders in psychology, AI, and digital ethics as they share their knowledge and perspectives."
+    style : "solid style2 major fa-user-tie"
+    
+  # feature item loop
+  - name : "Digital Literacy Tips"
+    content : "Gain practical advice on improving your digital literacy and understanding the impact of technology."
+    style : "solid style2 major fa-lightbulb"
+    
+  # feature item loop
+  - name : "Tech Solutions"
+    content : "Learn about our innovative tech solutions designed to enhance digital safety and promote responsible tech use."
+    style : "solid style2 major fa-cogs"
+    
+  # feature item loop
+  - name : "Community Impact"
+    content : "Discover how our initiatives and partnerships are making a difference in promoting media literacy."
+    style : "solid style2 major fa-hands-helping"
+    
+  # feature item loop
+  - name : "Resources & Tools"
+    content : "Access valuable resources and tools for educators, parents, and anyone interested in media literacy."
+    style : "style2 major fa-tools"
+    
