@@ -1,10 +1,11 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "second"
-title : "Innovative Tech for Safer Digital Experiences"
+title : "PIONEER OS"
 content: |
-  Our custom Android ROM integrates system-level security and AI-driven tools to monitor, educate, and protect young users. By adapting to individual needs, this innovative solution fosters healthy digital habits, ensures safe online experiences, and supports overall well-being.
+  Our custom Android ROM - PIONEER OS integrates system-level security and AI-driven tools to monitor, educate, and protect young users. By adapting to individual needs, this innovative solution fosters healthy digital habits, ensures safe online experiences, and supports overall well-being.
 button: 
   label: "Learn More"
   link: "#tech-solution"
-image: "images/spotlight02.jpg"
+image: "images/p7.jpeg"
+
