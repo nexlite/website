@@ -10,16 +10,21 @@ podcast_gallery:
       thumb: "images/gallery/thumbs/pc1t.jpg"
       button: "View"
 
-    - title: "Anant Mittal"
-      content: "Director, Newton School of Technology, Rishihood University."
+    - title: "Esaak J"
+      content: "Majoring in Psychology & Economics, Rishihood University."
       image: "images/gallery/fulls/pc2.jpg"
       thumb: "images/gallery/thumbs/pc2t.jpg"
       button: "View"
 
-    - title: "Prof. Ravinder Pal Singh"
-      content: "Co-Founder, School of Entreprenurship Rishihood University."
+    - title: "Anant Mittal"
+      content: "Director, Newton School of Technology, Rishihood University."
       image: "images/gallery/fulls/pc3.jpg"
       thumb: "images/gallery/thumbs/pc3t.jpg"
+      button: "View"
+
+    - title: "Esaak J and Anant Mittal"
+      image: "images/gallery/fulls/pc4.jpg"
+      thumb: "images/gallery/thumbs/pc4t.jpg"
       button: "View"
     
 aosp_rom_features_gallery:
