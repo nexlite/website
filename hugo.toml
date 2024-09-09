@@ -32,5 +32,6 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
+title = "NEXLITE"
 
 [Params.social]
