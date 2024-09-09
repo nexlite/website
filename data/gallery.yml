@@ -72,6 +72,23 @@ aosp_rom_features_gallery:
     image: "images/gallery/fulls/conf.jpg"
     thumb: "images/gallery/thumbs/conft.jpg"
     button: "Details"
+ 
+  - title: "Deep Fake Detection"
+    content: "AI-powered detection identifies manipulated media in real-time, ensuring authenticity and protecting against misinformation."
+    image: "images/gallery/fulls/dff.jpg"
+    thumb: "images/gallery/thumbs/dft.jpg"
+    button: "View"
+
+  - title: "Mood & Behaviour Detection"
+    content: "AI-driven insights monitor user mood and behavior, offering feedback to enhance emotional well-being."
+    image: "images/gallery/fulls/mdf.jpg"
+    thumb: "images/gallery/thumbs/mdt.jpg"
+    button: "Details"
+
+  - title: "Misinformation Detection"
+    content: "AI-powered analysis flags misleading content, helping users navigate the digital space confidently."
+    thumb: "images/gallery/thumbs/mct.jpg"
+    button: "Details"
   
 community_interventions_gallery:
   title: "Community Interventions"
